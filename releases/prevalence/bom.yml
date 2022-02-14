@@ -1,6 +1,6 @@
 
-version: $TARGET_VERSION
+version: 0.1.0
 image: 
-  repository: $TARGET_IMAGE
-  tag: $TARGET_IMAGE_TAG  
+  repository: image
+  tag: latest  
 
